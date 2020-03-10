@@ -12,7 +12,7 @@ class CashRegister
   end
 
   def cash_register_total
-    self.total
+    return self.total
   end
 
 end
